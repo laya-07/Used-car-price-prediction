@@ -107,7 +107,7 @@ The model was evaluated using:
 
 ### 📋 Vehicle Summary
 
-![Vehicle Summary](screenshots/Vehicle Summary.png)
+![Vehicle Summary](screenshots/Vehicle_Summary.png)
 
 ---
 
